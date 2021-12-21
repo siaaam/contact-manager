@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "name": "siam",
+      "username": "siam666",
+      "email": "abdullahsiam0d@gmail.com",
+      "phone": "111-111-1111",
+      "website": "website@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Lionel Messi",
+      "username": "LM30",
+      "email": "messi@gmail.com",
+      "phone": "111-111-1111-1",
+      "website": "messi.com",
+      "id": 2
+    }
+  ]
+}

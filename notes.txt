@@ -1,0 +1,14 @@
+# learn about react-router-dom
+topic: 
+1. useParam
+2. Link and NavLink
+3. dynamic routing
+4. static routing
+5. useHistory
+
+# difference between axios and fetch api for HTTPrequest
+
+# concurrently - running 2 npm command with one
+
+# json-server
+
